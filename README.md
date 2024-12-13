@@ -1,4 +1,4 @@
-![Cover]()
+![Cover](https://github.com/NexusAurora/NexusAurora/blob/cd4d348eb8a848e27e19d79a528935ca7996f906/Assets/Sayanti%20Chatterjee%20-%20Linkedin%20Cover.png)
 
 <div align="center">
   <a href="https://www.linkedin.com/in/sayantichatterjee" target="_blank">
